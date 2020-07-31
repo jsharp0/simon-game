@@ -3,3 +3,6 @@ This file is an online version of the popular Simon game that challenges users t
 
 ## How to Play
 To start the game, press any key on your keyboard. The game will create a new sequence starting with one color, and will add a new item to the sequence each time you correctly click the pattern. There is no level limit. Each color as a distinct sound as well so you can focus on repeating sounds or colors.
+
+## Contributing
+Feel free to download this file and make any changes you would like.
